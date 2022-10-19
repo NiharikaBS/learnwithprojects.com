@@ -16,7 +16,7 @@
 
 # Ex 2: A collection of hosts belonging to the 'webservers' group
 #localhost
-
+172.31.45.103
 #[webservers]
 #172.31.32.123
 #localhost
