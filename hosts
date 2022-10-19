@@ -21,6 +21,10 @@
 #172.31.32.123
 #localhost
 
+[webservers]
+172.31.47.207
+172.31.42.49
+
 [xyz-com-apache-node]
 172.31.32.123
 
